@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StevoTheCoder
-- 👀 I’m interested in Artificial Intelligence, Python, AWS and CyberSecurity
+- 👀 I’m interested in Artificial Intelligence, Python, C#, AWS and CyberSecurity
 - 🌱 I’m currently studying at University for my Bachelor's Degree in Computer Science
-- 💞️ I'm networking... 
+- 💞️ I'm networking ... 
 - 📫 How to reach me harrystevens873@gmail.com
 
 <!---
